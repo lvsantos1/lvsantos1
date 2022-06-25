@@ -27,7 +27,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/lvsantos1/lvsantos1/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/lvsantos1/lvsantos1/output/snake.svg" alt="Snake animation" />
 
 ###
 Profile Readme Generator
